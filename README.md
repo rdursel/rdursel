@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm working as a freelance product owner since 20 years now, inpiring several businesses with state-of-the art web applications.
 
 <!--
 **rdursel/rdursel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
