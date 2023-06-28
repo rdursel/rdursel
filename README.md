@@ -3,7 +3,7 @@ I'm working as a freelance product owner, inpiring several businesses with state
 Interested by data since always, I start investigating what is the job of a #data scientist.
 I'm now conviced that data is the futre.
 
-📫 [https://](https://www.linkedin.com/in/rdursel/)
+📫my linkedin profile :  [LinkedIn](https://www.linkedin.com/in/rdursel/)
 
 <!--
 **rdursel/rdursel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
